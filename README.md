@@ -74,7 +74,6 @@ I'm an **Industrial Engineer** and **Data Scientist** with a strong background i
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
-  <a href="https://www.arangodb.com/docs/stable/aql/" target="_blank"><img src="https://raw.githubusercontent.com/arangodb/arangodb/3.7/Documentation/images/logo/ArangoDB_logo_2016.png" alt="AQL" width="40" height="40"/></a>
 </p>
 
 ---
