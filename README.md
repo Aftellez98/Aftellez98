@@ -6,18 +6,15 @@
 
 I'm an **Industrial Engineer** and **Data Scientist** with a strong background in **Machine Learning** and **Artificial Intelligence**. My expertise spans multiple domains, including **Marketing**, **E-commerce**, and **Web Application Development**. I have practical experience deploying scalable tech solutions using **AWS** and other cloud platforms.
 
-As a self-taught expert in **Python**, **API Development**, **Docker**, and **AWS**, I specialize in translating complex technical concepts into practical advice for non-technical audiences. My mission is to bridge the gap between technology and people, empowering others to step confidently into the tech industry.  
-  
-🚀 *Join me on this journey to make tech more accessible — I hope you find my projects insightful and useful!*
-
 ---
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/andresfelipetellezyepes/)  
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/andresfelipe.tellezyepes/)  
-[![Medium](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/@andres.tellez)  
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/aftellez98)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/andresfelipetellezyepes/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/andresfelipe.tellezyepes/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://medium.com/@andres.tellez" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+</p>
 
 ---
 
