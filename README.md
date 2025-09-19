@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andres Felipe Tellez Yepes
 
-🇨🇴 Colombian | 🎓 Industrial Engineer @Universidad de los Andes | 🤖 Data Scientist | 🌐 Tech Enthusiast  
+🇨🇴 Colombian | 🤖 Data Scientist | 🌐 Tech Enthusiast  | 🎓 Industrial Engineer @Universidad de los Andes
 
 ---
 
