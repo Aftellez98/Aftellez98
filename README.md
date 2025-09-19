@@ -20,8 +20,9 @@ I'm an **Industrial Engineer** and **Data Scientist** passionate about building 
 
 ### 📝 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4169E1?logo=sql&logoColor=white&style=flat-square)
+![Spark](https://img.shields.io/badge/-Spark-F7931E?logo=spark&logoColor=white&style=flat-square)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 
 ### 🤖 AI & ML Frameworks
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
@@ -38,6 +39,7 @@ I'm an **Industrial Engineer** and **Data Scientist** passionate about building 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
+![Databricks](https://img.shields.io/badge/-Databricks-AA0000?style=flat-square)
 
 ### ⚒️ Dev Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
