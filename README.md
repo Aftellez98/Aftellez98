@@ -4,7 +4,7 @@
 
 ---
 
-I'm an **Industrial Engineer** and **Data Scientist** passionate about building real-world AI applications. I specialize in **Machine Learning**, **Marketing Analytics**, and **Web Application Development**. I have experience designing and deploying scalable solutions on **AWS**, **Azure**, and open-source cloud environments.
+I’m a **Data Scientist** focused on designing and delivering end-to-end data solutions that create measurable business impact. My expertise spans machine-learning, ai engineering, cloud platforms (AWS, Azure, Databricks), API development, and building intuitive front-ends and dashboards that transform complex data into actionable insights. I specialize in bridging advanced analytics with practical applications—turning raw data into scalable, high-impact solutions.
 
 ---
 
